@@ -15,7 +15,6 @@ Grails Architecture:
 Grails Flow:
 ![Grails Flow](https://github.com/virtualdogbert/Grails_Architecture/raw/master/Grails_Flow.png)
 
-{::nomarkdown}
 
 <p xmlns:dct="http://purl.org/dc/terms/">
   <a rel="license"
@@ -31,4 +30,3 @@ Grails Flow:
   <span property="dct:title">Grails_Architecture</span>.
 </p>
 
-{:/}
